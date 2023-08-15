@@ -5,6 +5,9 @@ contributor:
     agent_name: Betts, John Henderson
     gutenberg_agent_id: '56185'
     url: http://www.gutenberg.org/2009/agents/56185
+covers:
+- cover_type: archival
+  image_path: 71346-h/images/cover.jpg
 creator:
   author:
     agent_name: Swett, Sophie Miriam
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '31880'
     url: http://www.gutenberg.org/2009/agents/31880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71346#The-young-ship-builder
 gutenberg_issued: '2023-08-04'
 identifiers:
   gutenberg: '71346'
